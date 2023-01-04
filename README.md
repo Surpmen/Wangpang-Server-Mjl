@@ -1,0 +1,4 @@
+软工实训中级——网盘管理系统后端实现
+架构：网盘管理系统采用前后端分离的设计架构来实现，前端主要使用了vue框架、elementUI组件、vue-simple-uploader组件、swagger接口管理，
+后端主要使用了SpringBoot框架、mybatisPlus；前后端主要通过api接口进行数据交互；
+数据库使用的是mysql，使用mybatisPlus框架对数据库进行连接和操作。
